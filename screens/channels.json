@@ -1,5 +1,27 @@
 {
-  "channels": [],
+  "channels": [
+    {
+      "manifestPath": "/content/screens/express/channels/test-channel-1.manifest.json",
+      "lastModified": "2023-12-20T05:25:00.000Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        },
+        {
+          "title": "channels",
+          "path": "/content/screens/express/channels"
+        }
+      ],
+      "externalId": "/content/screens/express/channels/test-channel-1",
+      "title": "Test Channel 1",
+      "liveUrl": "https://main--express-prod-add-on--hlxscreens.hlx.live/content/screens/express/channels/test-channel-1.html"
+    }
+  ],
   "metadata": {
     "providerType": "franklin"
   }
