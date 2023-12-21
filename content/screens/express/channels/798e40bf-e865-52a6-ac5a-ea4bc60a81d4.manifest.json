@@ -1,10 +1,10 @@
 {
   "version": "3.0",
-  "timestamp": 1703148083532,
+  "timestamp": 1703148084161,
   "entries": [
     {
-      "path": "/content/screens/express/channels/test-channel-1.html",
-      "timestamp": 1703148083532
+      "path": "/content/screens/express/channels/798e40bf-e865-52a6-ac5a-ea4bc60a81d4.html",
+      "timestamp": 1703148084161
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -31,12 +31,16 @@
       "timestamp": 1703147718000
     },
     {
-      "path": "/content/screens/express/schedules/schedules-test-channel-1.json",
-      "timestamp": 1703049661000
+      "path": "/content/screens/express/schedules/schedule-798e40bf-e865-52a6-ac5a-ea4bc60a81d4.json",
+      "timestamp": 1703050894000
     },
     {
-      "path": "/content/screens/express/channels/content/screens/express/assets/media_1f2dd6cbda0c5e225e4f105a90f406ca7136dd4ed.jpeg",
-      "hash": "t/screens/express/assets/media_1f2dd6cbda0c5e225e4f105a90f406ca7136dd4ed"
+      "path": "/content/screens/express/assets/798e40bf-e865-52a6-ac5a-ea4bc60a81d4-0.jpg",
+      "timestamp": 1703050878000
+    },
+    {
+      "path": "/content/screens/express/assets/798e40bf-e865-52a6-ac5a-ea4bc60a81d4-1.jpg",
+      "timestamp": 1703050878000
     },
     {
       "path": "/blocks/carousel/carousel.js",
