@@ -6,7 +6,7 @@
     "channelsPath": "/channels",
     "schedulesPath": "/schedules",
     "deliveryPath":"/content/screens/",
-    "repoName" : "express-prod-add-on",
+    "repoName" : "express",
     "repoBranch" : "main",
     "repoOwner" : "hlxscreens",
     "docTemplate" : "test-express.docx",
