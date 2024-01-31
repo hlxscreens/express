@@ -1,10 +1,10 @@
 {
   "version": "3.0",
-  "timestamp": 1703148083532,
+  "timestamp": 1703148084000,
   "entries": [
     {
       "path": "/content/screens/express/channels/test-channel-1.html",
-      "timestamp": 1703148083532
+      "timestamp": 1703148084000
     },
     {
       "path": "/scripts/lib-franklin.js",
