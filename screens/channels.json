@@ -209,6 +209,27 @@
       "externalId": "/content/screens/express/channels/ec747039-c505-5975-9c63-7e5e7259db01",
       "title": "Ice Cream Poster",
       "liveUrl": "https://main--express--hlxscreens.hlx.live/content/screens/express/channels/ec747039-c505-5975-9c63-7e5e7259db01.html"
+    },
+    {
+      "manifestPath": "/content/screens/express/channels/528827a1-cf2e-43ac-b272-7de853b10619.manifest.json",
+      "lastModified": "2024-03-19T15:56:15.000Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        },
+        {
+          "title": "channels",
+          "path": "/content/screens/express/channels"
+        }
+      ],
+      "externalId": "/content/screens/express/channels/528827a1-cf2e-43ac-b272-7de853b10619",
+      "title": "Corporate Event Poster",
+      "liveUrl": "https://main--express--hlxscreens.hlx.live/content/screens/express/channels/528827a1-cf2e-43ac-b272-7de853b10619.html"
     }
   ],
   "metadata": {
