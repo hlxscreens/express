@@ -188,6 +188,27 @@
       "externalId": "/content/screens/express/channels/ef8c9d03-97c3-4dbc-9f73-b67148140ef6",
       "title": "Untitled - 14 December 2023 at 01.14.23",
       "liveUrl": "https://main--express-screens--sahil9001.hlx.live/content/screens/express/channels/ef8c9d03-97c3-4dbc-9f73-b67148140ef6.html"
+    },
+    {
+      "manifestPath": "/content/screens/express/channels/ec747039-c505-5975-9c63-7e5e7259db01.manifest.json",
+      "lastModified": "2024-03-19T15:11:51.000Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "express",
+          "path": "/content/screens/express"
+        },
+        {
+          "title": "channels",
+          "path": "/content/screens/express/channels"
+        }
+      ],
+      "externalId": "/content/screens/express/channels/ec747039-c505-5975-9c63-7e5e7259db01",
+      "title": "Ice Cream Poster",
+      "liveUrl": "https://main--express--hlxscreens.hlx.live/content/screens/express/channels/ec747039-c505-5975-9c63-7e5e7259db01.html"
     }
   ],
   "metadata": {
